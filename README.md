@@ -29,6 +29,7 @@
 
 * Current default version: `Ubuntu 26.04 (Resolute Raccoon)`
 * Currently it still uses `initramfs-tools` and has not switched to `dracut`.
+* Currently it still uses `coreutils-from-gnu` and has not switched to `coreutils-from-uutils`.
 
 
 
